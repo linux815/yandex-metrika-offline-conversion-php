@@ -8,7 +8,7 @@
         "homepage": "https://meiji.media"
     }],
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "guzzlehttp/guzzle": "^7.0.1",
         "php": ">=5.6",
